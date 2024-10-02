@@ -1,6 +1,10 @@
 ---
 title: 使用Hexo搭建静态博客
 date: 2024-09-29 22:30:55
+description: 如何使用Hexo和Github搭建属于自己的静态博客
+keywords: Hexo,博客搭建
+top_img: HowToBuildBlog/1-2.jpg
+cover: HowToBuildBlog/1-2.jpg
 tags:
     - Operation Guide
 ---
@@ -98,3 +102,5 @@ pretty_urls:
 # 个性化博客
 ## 挑一个你适合的主题
 [流行的自定义主题](https://pengtech.net/hexo/hexo_theme_recommendation.html)
+
+- 我选择的是butterfly主题。这里是[butterfly主题的说明文档](https://butterfly.js.org/)
