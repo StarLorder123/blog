@@ -102,7 +102,11 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
+- type: git
   repository: git@github.com:StarLorder123/blog.git
   branch: gh-pages
+  message: DragonOrigin's Blog
+- type: git
+  repository: git@gitee.com:dragonorigin/blog.git
+  branch: main
   message: DragonOrigin's Blog
