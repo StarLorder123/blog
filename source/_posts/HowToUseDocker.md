@@ -1,12 +1,15 @@
 ---
 title: Docker使用指南
-date: 2024-10-09 22:39:07
 description: 如何顺畅地、熟练地使用Docker
-keywords: Docker,使用指导
+keywords: 'Docker,使用指导'
 top_img: HowToUseDocker/1-1.jpg
 cover: HowToUseDocker/1-1.jpg
 tags:
-    - Operation Guide
+  - Operation Guide
+categories:
+  - 代码浪潮
+abbrlink: 978e37b0
+date: 2024-10-09 22:39:07
 ---
 # 安装
 ## 在Debian下安装Docker

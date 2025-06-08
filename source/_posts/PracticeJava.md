@@ -1,13 +1,16 @@
 ---
 title: 践行 | Java学习之路
-date: 2024-10-17 21:35:20
 description: 分享我是如何学习Java的
-keywords: Java,践行成长
+keywords: 'Java,践行成长'
 top_img: PracticeJava/1-1.jpg
 cover: PracticeJava/1-1.jpg
 tags:
-    - Practice
-    - Growth
+  - Practice
+  - Growth
+categories:
+  - 职场观海
+abbrlink: 41a5eb46
+date: 2024-10-17 21:35:20
 ---
 # 写在最前面
 - 我是从2017年下半年开始接触Java的。下面写的都是我学习Java的历程和一些看法，欢迎交流。

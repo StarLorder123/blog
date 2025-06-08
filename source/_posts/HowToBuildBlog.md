@@ -1,12 +1,15 @@
 ---
 title: 使用Hexo搭建静态博客
-date: 2024-09-29 22:30:55
 description: 如何使用Hexo和Github搭建属于自己的静态博客
-keywords: Hexo,博客搭建
+keywords: 'Hexo,博客搭建'
 top_img: HowToBuildBlog/1-2.jpg
 cover: HowToBuildBlog/1-2.jpg
 tags:
-    - Operation Guide
+  - Operation Guide
+categories:
+  - 月光赶海
+abbrlink: 48dba841
+date: 2024-09-29 22:30:55
 ---
 # 写在前面
 - 一直以来都有自己建博客的想法，买过服务器，也使用过wordpress、halo。wordpress、halo这样的框架适合建社区式内容网站，用于个人博客网站的搭建有些大材小用了。
