@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: DragonOrigin's Blog
-subtitle: 'It is all worth it'
-description: ''
-keywords:
+title: 龙源记：潮生万象录
+subtitle: '潮生万象录'
+description: 'Where Dragon Currents Script Eternity'
+keywords: 技术博客, 计算机科学, AI, 软件工程, 职业发展, 读书笔记
 author: Lee Jinhao
 language: zh-CN
 timezone: 'Asia/Shanghai'
