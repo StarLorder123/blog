@@ -567,9 +567,7 @@ baidu_analytics:
 
 # Google Analytics
 # https://analytics.google.com/analytics/web/
-google_analytics:
-  enable: true
-  id: G-NXGD63FVF8
+google_analytics: G-NXGD63FVF8
 
 # Cloudflare Analytics
 # https://www.cloudflare.com/zh-tw/web-analytics/
