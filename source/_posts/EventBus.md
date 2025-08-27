@@ -2,8 +2,8 @@
 title: 事件驱动组件
 description: 如何使用JavaScript/TypeScript实现事件驱动组件
 keywords: 'JavaScript/TypeScript,事件驱动'
-top_img: EventBus/1-1.jpg
-cover: EventBus/1-1.jpg
+top_img: /EventBus/1-1.jpg
+cover: /EventBus/1-1.jpg
 tags:
   - JavaScript/TypeScript
   - Design Mode

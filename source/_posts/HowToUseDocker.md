@@ -2,8 +2,8 @@
 title: Docker使用指南
 description: 如何顺畅地、熟练地使用Docker
 keywords: 'Docker,使用指导'
-top_img: HowToUseDocker/1-1.jpg
-cover: HowToUseDocker/1-1.jpg
+top_img: /HowToUseDocker/1-1.jpg
+cover: /HowToUseDocker/1-1.jpg
 tags:
   - Operation Guide
 categories:

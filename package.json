@@ -3,10 +3,16 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "build": "hexo generate",
     "clean": "hexo clean",
-    "deploy": "hexo deploy",
-    "server": "hexo server --draft"
+    "build:github": "hexo generate -c _config_github.yml",
+    "build:gitee": "hexo generate -c _config_gitee.yml",
+    "deploy:github": "hexo deploy -c _config_github.yml",
+    "deploy:gitee": "hexo deploy -c _config_gitee.yml",
+    "build:both": "npm run clean & npm run build:github & npm run build:gitee",
+    "deploy:both": "npm run build:github+deploy & npm run build:gitee+deploy",
+    "build:github+deploy": "npm run clean & npm run build:github && npm run deploy:github",
+    "build:gitee+deploy": "npm run clean & npm run build:gitee && npm run deploy:gitee",
+    "server": "hexo server --config ./_config_github.yml"
   },
   "hexo": {
     "version": "7.3.0"

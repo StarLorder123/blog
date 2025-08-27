@@ -1,7 +1,7 @@
 ---
 title: AI Code困局：当”银弹”坠入新焦油坑，破解三重对齐方能突围
-top_img: ChallengesInAIProgramming/1-1.jpg
-cover: ChallengesInAIProgramming/1-1.jpg
+top_img: /ChallengesInAIProgramming/1-1.jpg
+cover: /ChallengesInAIProgramming/1-1.jpg
 categories:
   - 未来浮标
 abbrlink: 14cd883d

@@ -7,7 +7,7 @@ title: 龙源记：潮生万象录
 subtitle: '潮生万象录'
 description: 'Where Dragon Currents Script Eternity'
 keywords: 技术博客, 计算机科学, AI, 软件工程, 职业发展, 读书笔记
-author: Lee Jinhao
+author: DrogonOrigin
 language: zh-CN
 timezone: 'Asia/Shanghai'
 email: lijinhao_wuxi@163.com
@@ -112,7 +112,8 @@ deploy:
   repository: git@github.com:StarLorder123/blog.git
   branch: gh-pages
   message: DragonOrigin's Blog
-- type: git
-  repository: git@gitee.com:dragonorigin/blog.git
-  branch: main
-  message: DragonOrigin's Blog
+
+footer:
+  owner:
+    enable: true
+    since: 2024

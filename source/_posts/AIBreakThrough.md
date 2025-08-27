@@ -2,8 +2,8 @@
 title: 下沉！大模型在落地之路上的突围
 abbrlink: 54d17ab8
 date: 2025-06-08 21:13:21
-top_img: AIBreakThrough/1-1.jpg
-cover: AIBreakThrough/1-1.jpg
+top_img: /AIBreakThrough/1-1.jpg
+cover: /AIBreakThrough/1-1.jpg
 categories:
   - 未来浮标
 ---

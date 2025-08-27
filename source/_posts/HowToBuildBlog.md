@@ -2,8 +2,8 @@
 title: 使用Hexo搭建静态博客
 description: 如何使用Hexo和Github搭建属于自己的静态博客
 keywords: 'Hexo,博客搭建'
-top_img: HowToBuildBlog/1-2.jpg
-cover: HowToBuildBlog/1-2.jpg
+top_img: /HowToBuildBlog/1-2.jpg
+cover: /HowToBuildBlog/1-2.jpg
 tags:
   - Operation Guide
 categories:

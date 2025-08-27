@@ -2,8 +2,8 @@
 title: 践行 | Java学习之路
 description: 分享我是如何学习Java的
 keywords: 'Java,践行成长'
-top_img: PracticeJava/1-1.jpg
-cover: PracticeJava/1-1.jpg
+top_img: /PracticeJava/1-1.jpg
+cover: /PracticeJava/1-1.jpg
 tags:
   - Practice
   - Growth
